@@ -1,5 +1,5 @@
-##Tanguy
-- 👋 Hi, I’m @delzenne [Tanguy Delzenne]
+## Tanguy Delzenne
+- 👋 Hi, I’m @delzenne
 - 👀 I’m interested in AI, legal, technology
 - 🌱 I’m currently learning `How to identify Deepfakes`
 - 💞️ I’m looking to collaborate on AI, ML, IP [Intellectual Property]
